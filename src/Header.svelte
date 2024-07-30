@@ -15,7 +15,7 @@
         <div class="container">
             <!-- Brand -->
             <!-- svelte-ignore a11y-invalid-attribute -->
-            <a class="navbar-brand" href="#"><span><img draggable="false" src="img/core-img/logo.png" alt="logo"></span> Interior Tech</a>
+            <a class="navbar-brand" href="#"><span><img draggable="false" src="img/core-img/logo.png" alt="logo"></span></a>
 
             <!-- Toggler/collapsibe Button -->
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
